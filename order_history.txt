@@ -1,0 +1,20 @@
+Order placed on: 2024-11-13 11:54:10
+Sandwich | ?30.0 | Quantity: 45 | Total: ?1350.0
+Total Price: ?1350.0
+=====================================
+Order placed on: 2024-11-13 12:32:00
+Nescafe Coffee | ?45.0 | Quantity: 1 | Total: ?45.0
+Total Price: ?45.0
+=====================================
+Order placed on: 2024-11-13 12:58:16
+Sandwich | ?30.0 | Quantity: 10 | Total: ?300.0
+Total Price: ?300.0
+=====================================
+Order placed on: 2024-11-13 12:58:38
+Nescafe Coffee | ?45.0 | Quantity: 1 | Total: ?45.0
+Total Price: ?45.0
+=====================================
+Order placed on: 2024-11-14 23:13:07
+Samosa | ?15.0 | Quantity: 34 | Total: ?510.0
+Total Price: ?510.0
+=====================================
